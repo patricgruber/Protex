@@ -1,0 +1,6 @@
+requests
+termcolor
+scapy
+lxml
+httpx[http2]
+z3-solver

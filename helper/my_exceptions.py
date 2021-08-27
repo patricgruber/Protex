@@ -1,0 +1,2 @@
+class OracleNotUsedException(Exception):
+    pass
